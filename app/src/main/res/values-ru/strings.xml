@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Контакты</string>
+    <string name="add_button_description">Добавить контакт</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="delete">Удалить</string>
+    <string name="enter_surname">Введите фамилию</string>
+    <string name="enter_telephone">Введите телефон</string>
+    <string name="add_button">Добавить</string>
+    <string name="add_contact_title">Добавить контакт</string>
+    <string name="edit_contact_title">Редактировать контакт</string>
+</resources>
